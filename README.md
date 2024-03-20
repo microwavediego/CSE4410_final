@@ -23,5 +23,8 @@ How it works. Brief description of each script file:
 - PlatformPlayer - Performs player movement, animations, detects collisions with enemies, and destroys player if health is 0.
 - PlayerShoot - If we receive a mouse click, shoot detergent projectile in the correct direction.
 - ShirtAI - Attached to the jerseys, this script continuously moves jersey enemies left and right within the camera.
-- StartButton - Re-loads our Sample Scene when a user clicks the Start button 
+- StartButton - Re-loads our Sample Scene when a user clicks the Start button
+
+File Share:
+- Our team is sharing unity packages in the following Google Drive - https://drive.google.com/drive/folders/1WoGuAJnyyvJPexYNVYiGTHyiFHTK9L7g. Please let us know if there are any issues accessing package.
 
