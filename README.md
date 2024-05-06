@@ -7,7 +7,7 @@
 - Michael Herman
 
 What's Included:
-- Included in this submission is our folders containing our scripts, prefabs, scenes, and sprites. We also included an mp4 recording of our working game.
+- Included in this submission is our folders containing our scripts, prefabs, scenes, and sprites. 
 
 Gameplay:
 - Our game is a simple 2D platformer where the objective is to shoot spawning enemies and remain alive as long as possible. Our player (stickman) is equipped with projectiles (detergent) and can run and jump on different platforms. It faces three types of opponents which are jerseys, pants, and hats. The jeans and jerseys continuously spawn in different areas and follow predetermined paths either North-South or East-West. The hats are spawned in only once at the beginning of the game and these know the player location and follow it around. Enemies have a health of 1 and once they are hit with detergent they vanish and our score is increased. The player has a health of 5 and loses 1 health each time it makes contact with an enemy. Once health reaches 0 the player is destroyed and there is a prompt asking for user to start game all over.
