@@ -6,10 +6,15 @@
 - Mohammad Kaissi
 - Michael Herman
 
-What's Included:
-- Included in this submission is our folders containing our scripts, prefabs, scenes, and sprites. 
+What's Included in this repository:
+- Included in this submission is our folders containing our scripts, prefabs, scenes, and sprites.
 
-Gameplay:
+How to play game yourself:
+- Access our google share drive https://drive.google.com/drive/folders/1WoGuAJnyyvJPexYNVYiGTHyiFHTK9L7g?usp=drive_link where we have two separate folders '4410_final_unity_package' and '4410_final_executable'.
+- To directly start playing, you can download the entire folder '4410_final_executable' and run 'cse4410_final.exe'. Note: it is necessary to download entire folder or the executable will not run.
+- Alternatively, you can navigate to '4410_final_unity_package' and download our latest unity package 'CSE4410FinalProjpt3_ChrisD.unitypackage' and import this into Unity to make any personal changes, additions, or play game within Unity hub. 
+
+Gameplay overview:
 - Our game is a simple 2D platformer where the objective is to shoot spawning enemies and remain alive as long as possible. Our player (stickman) is equipped with projectiles (detergent) and can run and jump on different platforms. It faces three types of opponents which are jerseys, pants, and hats. The jeans and jerseys continuously spawn in different areas and follow predetermined paths either North-South or East-West. The hats are spawned in only once at the beginning of the game and these know the player location and follow it around. Enemies have a health of 1 and once they are hit with detergent they vanish and our score is increased. The player has a health of 5 and loses 1 health each time it makes contact with an enemy. Once health reaches 0 the player is destroyed and there is a prompt asking for user to start game all over.
 
 How it works. Brief description of each script file:
@@ -32,6 +37,5 @@ How it works. Brief description of each script file:
 - StartButton - Re-loads our Sample Scene when a user clicks the Start button
 - StartScreenManager - This simply loads 'SampleScene' when we click the start button. SampleScene is where our game is played. 
 
-File Share:
-- Our team is sharing unity packages in the following Google Drive - https://drive.google.com/drive/folders/1WoGuAJnyyvJPexYNVYiGTHyiFHTK9L7g. Please let us know if there are any issues accessing package.
+Please let us know if there are any issues accessing any packages.
 
